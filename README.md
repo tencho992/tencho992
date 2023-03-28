@@ -19,7 +19,7 @@
 
 - 📝 I regularly tweet on [https://twitter.com/TenzinDev](https://twitter.com/TenzinDev)
 
-- 💬 Ask me about **FLEX!**
+- 💬 Ask me about **CSS! I love talking about how fun Flex is!**
 
 - 📫 How to reach me **tencho.dev@gmail.com**
 
