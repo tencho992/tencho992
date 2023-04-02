@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my Client's Portfolio**
 
-- 🌱 I’m currently learning **JavaScript, OOP**
+- 🌱 I’m currently learning **JS and API**
 
 - 👯 I’m looking to collaborate on **any of my repositories! Please contribute!**
 
