@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **tencho.dev@gmail.com**
 
-- 📄 Know about my experiences by checking out my Portfolio at [https://twitter.com/TenzinDev](Portfolio)
+- 📄 Know about my experiences by checking out my Portfolio at [Portfolio](https://tenzinchosang.netlify.app/)
 
 - ⚡ Fun fact **When the sun is setting, so am I!**
 
