@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **JavaScript or any helpful tips.**
 
-- 👨‍💻 All of my projects are available at [https://tenzinchosang.netlify.app/](https://tenzinchosang.netlify.app/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://tenzinchosang.netlify.app/)
 
-- 📝 I regularly tweet on [https://twitter.com/TenzinDev](https://twitter.com/TenzinDev)
+- 📝 I regularly tweet on [twitter @TenzinDev](https://twitter.com/TenzinDev)
 
 - 💬 Ask me about **CSS! I love talking about how fun Flex is!**
 
 - 📫 How to reach me **tencho.dev@gmail.com**
 
-- 📄 Know about my experiences by checking out my Portfolio at [Portfolio](https://tenzinchosang.netlify.app/)
+- 📄 Know about my experiences by checking out my [Portfolio](https://tenzinchosang.netlify.app/)
 
 - ⚡ Fun fact **When the sun is setting, so am I!**
 
