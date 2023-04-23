@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on **my Client's Portfolio**
 
-- 🌱 I’m currently learning **Express and dabbling in AI**
+- 🌱 I’m currently learning **Express and bee stings ^.^ dabbling in AI**
 
 - 👯 I’m looking to collaborate on **any of my repositories! Please contribute!**
 
-- 🤝 I’m looking for help with **JavaScript or any helpful tips.**
+- 🤝 I’m looking for help with **feeling comfortable in all the environments (lol) and any helpful tips on MongoDB**
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://tenzinchosang.netlify.app/)
 
 - 📝 I regularly tweet on [twitter @TenzinDev](https://twitter.com/TenzinDev)
 
-- 💬 Ask me about **CSS! I love talking about how fun Flex is!**
+- 💬 Ask me about **my code and I probably won't shut up**
 
 - 📫 How to reach me **tencho.dev@gmail.com**
 
