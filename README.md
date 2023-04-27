@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any of my repositories! Please contribute!**
 
-- 🤝 I’m looking for help with **feeling comfortable in all the environments (lol) and any helpful tips on MongoDB**
+- 🤝 I’m looking for help with **CLI skillz and any helpful tips on MongoDB**
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://tenzinchosang.netlify.app/)
 
