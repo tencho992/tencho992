@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences by checking out my [Portfolio](https://tenzinchosang.netlify.app/)
 
-- ⚡ Fun fact **When the sun is setting, so am I!**
+- ⚡ Fun fact **More than a billion people need the rivers supported by the Himalayan glaciers to survive!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
