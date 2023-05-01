@@ -40,5 +40,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tencho992&show_icons=true&locale=en&layout=compact" alt="tencho992" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tencho992&show_icons=true&locale=en" alt="tencho992" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tencho992&" alt="tencho992" /></p>
