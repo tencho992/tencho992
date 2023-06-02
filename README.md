@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **my Client's Portfolio**
 
-- 🌱 I’m currently learning **Express and bee stings ^.^ dabbling in AI**
+- 🌱 I’m currently learning **Algorithms and the Big O ^.^ dabbling in AI**
 
 - 👯 I’m looking to collaborate on **any of my repositories! Please contribute!**
 
-- 🤝 I’m looking for help with **CLI skillz and any helpful tips on MongoDB**
+- 🤝 I’m looking for help with **React, Python**
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://tenzinchosang.netlify.app/)
 
