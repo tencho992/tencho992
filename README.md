@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Algorithms and the Big O ^.^ dabbling in AI**
 
-- 👯 I’m looking to collaborate on **any of my repositories! Please contribute!**
+- 👯 I’m looking to collaborate **I love co-creating, got any cool ideas?**
 
 - 🤝 I’m looking for help with **React, Python**
 
