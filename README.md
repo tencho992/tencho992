@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my Client's Portfolio**
 
-- 🌱 I’m currently learning **Algorithms and the Big O ^.^ dabbling in AI**
+- 🌱 I’m currently learning **Algorithms**
 
 - 👯 I’m looking to collaborate **I love co-creating, got any cool ideas?**
 
@@ -19,9 +19,9 @@
 
 - 📝 I regularly tweet on [twitter @TenzinDev](https://twitter.com/TenzinDev)
 
-- 💬 Ask me about **my code and I probably won't shut up**
+- 💬 Ask me about **my code. Lets talk technical :)**
 
-- 📫 How to reach me **tencho.dev@gmail.com**
+- 📫 How to reach me **tencho.dev@gmail.com or Message me on LinkedIn**
 
 - 📄 Know about my experiences by checking out my [Portfolio](https://tenzinchosang.netlify.app/)
 
