@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate **I love co-creating, got any cool ideas?**
 
-- 🤝 I’m looking for help with **React, Python**
+- 🤝 I’m looking for help with **React**
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://tenzinchosang.netlify.app/)
 
